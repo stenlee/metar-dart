@@ -6,13 +6,13 @@ documentation: https://github.com/TAF-Verification/metar-dart/blob/main/doc/docs
 # homepage: https://www.example.com
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=3.2.0 <4.0.0"
 
 dependencies:
-  http: ^0.13.5
-  tuple: ^2.0.0
+  http:
+  tuple:
 
 dev_dependencies:
-  test: ^1.21.6
-  coverage: ^1.6.1
-  lints: ^2.0.0
+  test:
+  coverage:
+  lints:
